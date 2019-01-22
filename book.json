@@ -1,0 +1,52 @@
+{
+  "title": "Notes",
+  "author": "jwucong",
+  "description": "",
+  "gitbook": "3.2.3",
+  "links": {
+    "sidebar": {
+      "Repo": "https://github.com/jwucong/notes"
+    }
+  },
+  "plugins": [
+    "toggle-chapters",
+    "-sharing",
+    "github",
+    "github-buttons",
+    "sharing-plus"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/jwucong/notes"
+    },
+    "github-buttons": {
+      "buttons": [{
+        "user": "jwucong",
+        "repo": "note",
+        "type": "star",
+        "size": "small",
+        "count": true
+      }]
+    },
+    "sharing": {
+      "douban": false,
+      "facebook": false,
+      "google": false,
+      "hatenaBookmark": false,
+      "instapaper": false,
+      "line": false,
+      "linkedin": false,
+      "messenger": false,
+      "pocket": false,
+      "qq": false,
+      "qzone": false,
+      "stumbleupon": false,
+      "twitter": false,
+      "viber": false,
+      "vk": false,
+      "weibo": false,
+      "whatsapp": false,
+      "all": ["google", "facebook", "weibo", "twitter", "qq", "qzone", "linkedin", "pocket"]
+    }
+  }
+}
