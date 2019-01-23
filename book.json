@@ -1,11 +1,11 @@
 {
-  "title": "Notes",
+  "title": "134",
   "author": "jwucong",
   "description": "",
   "gitbook": "3.2.3",
   "links": {
     "sidebar": {
-      "Repo": "https://github.com/jwucong/notes"
+      "github": "https://github.com/jwucong/notes"
     }
   },
   "plugins": [
