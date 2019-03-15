@@ -4,4 +4,4 @@
   1. [安装说明](gitbook/README.md)
   2. [配置文件](gitbook/book.json.md)
 * [vim](vim/README.md)
-* [webStrom](webstrom/server.md)
+* [webStrom](webstorm/server.md)
